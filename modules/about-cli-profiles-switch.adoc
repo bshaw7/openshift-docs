@@ -6,8 +6,7 @@
 [id="about-switches-between-cli-profiles_{context}"]
 = About switches between CLI profiles
 
-Contexts allow you to easily switch between multiple users across multiple
-ifndef::openshift-rosa[]
+
 {product-title}
 endif::openshift-rosa[]
 ifdef::openshift-rosa[]
